@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Mickey! 👋
+
+I'm an aspiring Computer Science student passionate about technology and programming.  
+Right now, I'm preparing for university and excited to start my coding journey.  
+
+I plan to share my projects, learning progress, and anything interesting I build here.  
+Stay tuned and follow along! 🚀
 
 <!--
 **MickeyDevOfficial/MickeyDevOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
